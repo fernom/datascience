@@ -10,3 +10,5 @@ Notebooks diversos de estudo em Data Science
 ### INMET
 Acesso aos dados de estações meteorológicas do INMET
 
+### NLP
+Notebooks de estudo em NLP (natural language processing)
