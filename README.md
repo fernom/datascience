@@ -6,3 +6,7 @@ Notebooks diversos de estudo em Data Science
 - boxplots_grid.ipynb - Plotar vários *boxplots* em linhas e colunas usando Matplotlib
 - heatmap.ipynb - Mostrar apenas valores acima de um limite em um *heatmap* do Seaborn
 - PETR4-gh1.ipynb - Séries temporais com Facebook Prophet e Python (usa PETR4.csv)
+
+### INMET
+Acesso aos dados de estações meteorológicas do INMET
+
